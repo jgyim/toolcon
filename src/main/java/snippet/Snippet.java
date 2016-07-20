@@ -1,0 +1,59 @@
+package snippet;
+
+public class Snippet {
+	/*
+	antlr-2.7.6.jar
+	com.springsource.org.aopalliance-1.0.0.jar
+	com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar
+	commons-beanutils-1.7.0.jar
+	commons-codec-1.3.jar
+	commons-collections-3.2.jar
+	commons-dbcp-1.2.1.jar
+	commons-digester-1.7.jar
+	commons-discovery-0.2.jar
+	commons-fileupload-1.2.1.jar
+	commons-io-1.4.jar
+	commons-javaflow-20060411.jar
+	commons-lang-2.1.jar
+	commons-logging-1.1.jar
+	commons-pool-1.3.jar
+	commons-validator-1.1.3.jar
+	dom4j-1.6.1.jar
+	hibernate-jpa-2.0-api-1.0.0.Final.jar
+	hibernate3.jar
+	ibatis-2.3.4.726.jar
+	jackson-all-1.8.0.jar
+	javassist-3.9.0.GA.jar
+	javax.inject-1.jar
+	jstl.jar
+	jta-1.1.jar
+	log4j-1.2.13.jar
+	mybatis-3.0.4.jar
+	mybatis-spring-1.0.0.jar
+	ojdbc14.jar
+	org.springframework.aop-3.0.5.RELEASE.jar
+	org.springframework.asm-3.0.5.RELEASE.jar
+	org.springframework.aspects-3.0.5.RELEASE.jar
+	org.springframework.beans-3.0.5.RELEASE.jar
+	org.springframework.context-3.0.5.RELEASE.jar
+	org.springframework.context.support-3.0.5.RELEASE.jar
+	org.springframework.core-3.0.5.RELEASE.jar
+	org.springframework.expression-3.0.5.RELEASE.jar
+	org.springframework.instrument-3.0.5.RELEASE.jar
+	org.springframework.instrument.tomcat-3.0.5.RELEASE.jar
+	org.springframework.jdbc-3.0.5.RELEASE.jar
+	org.springframework.jms-3.0.5.RELEASE.jar
+	org.springframework.orm-3.0.5.RELEASE.jar
+	org.springframework.oxm-3.0.5.RELEASE.jar
+	org.springframework.test-3.0.5.RELEASE.jar
+	org.springframework.transaction-3.0.5.RELEASE.jar
+	org.springframework.web-3.0.5.RELEASE.jar
+	org.springframework.web.servlet-3.0.5.RELEASE.jar
+	org.springframework.web.struts-3.0.5.RELEASE.jar
+	slf4j-api-1.6.1.jar
+	slf4j-jdk14-1.6.1.jar
+	standard.jar
+	
+	*/
+}
+
